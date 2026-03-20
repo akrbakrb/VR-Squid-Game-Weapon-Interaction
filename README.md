@@ -3,7 +3,7 @@ VR Squid Game – Weapon Interaction
 # 🎮 VR Squid Game – Weapon Interaction (Unity)
 
 <img width="2431" height="1104" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/5a3e4854-34df-4302-811e-357b0e6c705b" />
-
+https://youtube.com/shorts/JO_LhM3BFZY?si=ELg1yajL1TNzMzfx
 ## 🧠 Overview
 
 🔴 VR-based weapon interaction prototype inspired by Squid Game

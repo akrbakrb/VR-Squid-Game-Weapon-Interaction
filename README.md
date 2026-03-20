@@ -4,13 +4,15 @@ VR Squid Game – Weapon Interaction
 
 <img width="2431" height="1104" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/5a3e4854-34df-4302-811e-357b0e6c705b" />
 https://youtube.com/shorts/JO_LhM3BFZY?si=ELg1yajL1TNzMzfx
-## 🧠 Overview
+
+
+##  Overview
 
 🔴 VR-based weapon interaction prototype inspired by Squid Game
 🟢 Focus on immersive gameplay and physics-based interactions
 🔵 Built as a learning/demo project in Unity
 
-## 🚀 Features
+##  Features
 
 🔴 **VR Interaction System**
 🟢 Grab, hold, and manipulate objects using VR controllers
@@ -32,13 +34,13 @@ https://youtube.com/shorts/JO_LhM3BFZY?si=ELg1yajL1TNzMzfx
 🟢 Simple enclosed environment
 🔵 Stylized assets and props
 
-## 🛠️ Built With
+##  Built With
 
 🔴 Unity (Tested on Unity 6+)
 🟢 XR Interaction Toolkit / Custom VR scripts
 🔵 C#
 
-## ⚙️ Getting Started
+##  Getting Started
 
 🔴 Clone the repository
 🟢 Open in Unity Hub
@@ -52,7 +54,7 @@ https://youtube.com/shorts/JO_LhM3BFZY?si=ELg1yajL1TNzMzfx
 🟢 Shoot / Use – Primary button
 🔵 Move – Joystick / Thumbstick
 
-## ⚠️ Known Issues
+##  Known Issues
 
 🔴 Convex mesh warnings on some models
 🟢 Basic AI (static targets)
@@ -67,13 +69,13 @@ https://youtube.com/shorts/JO_LhM3BFZY?si=ELg1yajL1TNzMzfx
 🔴 Sound effects & haptics
 🟢 Improved UI/UX
 
-## 🤝 Contributing
+##  Contributing
 
 🔴 Fork the repo
 🟢 Create a branch
 🔵 Submit a pull request
 
-## 📄 License
+##  License
 
 🔴 Educational and experimental use
 🟢 Add your license if needed
